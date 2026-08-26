@@ -18,7 +18,7 @@ I enjoy turning complex data into clear insights, useful dashboards and automate
 
 Welcome to my portfolio, where I share the projects I have built while developing my skills and solving real business problems.
 
-Explore my [data analytics portfolio](https://github.com/NhuCasati/Portfolio-Guide/blob/main/README.md), including SQL case studies, dashboards and automation projects.
+Explore my [data analytics portfolio](https://github.com/NhuCasati/data-analytics-portfolio/blob/main/README.md), including SQL case studies, dashboards and automation projects.
 
 ### 🌿 Beyond Data
 
